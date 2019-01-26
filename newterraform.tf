@@ -1,6 +1,6 @@
 provider "aws" {
-  access_key = "1AKIAJ6LZGWE3NUHNZUDQ2"
-  secret_key = "113xEYdF2dOWSL4bMLv/4Tt9t5Kdm6uHu6tiZqJ3c2"
+  access_key = "you id"
+  secret_key = "you key"
   region     = "us-east-1"
 }
 
